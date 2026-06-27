@@ -1,0 +1,7 @@
+print("------ Student Result ------")
+print("Name:", name)
+print("Total:", total)
+print("Average:", average)
+print("Grade:", grade)
+print("Result:", "Pass" if average >= 40 else "Fail")
+print("----------------------------")
