@@ -14,7 +14,7 @@ Python
 ## How to Run
 1. Install Python
 2. Run:
-   python result.py
-   python grade.py
-   python pass/fail.py
-   python output.py
+   2.1.python result.py
+   2.2.python grade.py
+   2.3.python pass/fail.py
+   2.4.python output.py
